@@ -46,7 +46,14 @@ author-name: Lei Chen
 # URL for the Image of the Author
 author-image: /assets/images/author.png
 # 60 Words About the Author
-author-about: My name is Lei Chen and I'm a doctoral student at Tokyo Institute of Technology. I'm researching on software evolution, especially refactorings. I received the B.S. from Dalian University of Technology (DUT), Dalian, China, in 2020 and M.S. degree from Tokyo Institute of Technology, Tokyo, Japan in 2022.
+author-about:
+---
+My name is Lei Chen, and I am a doctoral student at the Tokyo Institute of Technology, specializing in software engineering with a particular focus on software evolutions.
+I received my B.S. degree in in Software Engineering from Dalian University of Technology (DUT) in Dalian, China, in 2020, and my M.S. degree in Computer Science from the Tokyo nstitute of Technology in Tokyo, Japan, in 2022.
+
+Since 2022, I have been pursuing a Ph.D. at the Tokyo Institute of Technology under the supervision of Prof. Shinpei Hayashi. 
+Additionally, I had the opportunity to serve as a collaborative researcher at the Università della Svizzera italiana (USI) in Switzerland from December 2023 to June 2024, under the guidance of Prof. Michele Lanza.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/MashiroCl
 
